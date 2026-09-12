@@ -1,0 +1,7 @@
+name: Safety-Bot
+description: ""
+ports: []
+bricks:
+- custom_ai_brick: {}
+- arduino:web_ui: {}
+icon: 😀

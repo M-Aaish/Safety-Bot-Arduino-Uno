@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OAK-D Command Center</title>
+    <!-- Import Google's beautiful Inter font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* High-End Background & Base Styles */
+        body { 
+            font-family: 'Inter', sans-serif; 
+            /* Premium dark radial gradient background */
+            background: radial-gradient(circle at center, #1A1F35 0%, #090A10 100%);
+            color: #ffffff;
+            margin: 0; 
+            padding: 20px; 
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header { 
+            text-align: center;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+        
+        .header h1 {
+            color: #00E5FF;
+            text-shadow: 0 0 20px rgba(0, 229, 255, 0.4);
+            margin: 0;
+            font-weight: 700;
+        }
+
+        /* Glassmorphism Main Layout */
+        .dashboard-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            justify-content: center;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+        }
+
+        /* Video Feed Section */
+        .video-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .video-wrapper {
+            width: 416px;
+            height: 416px;
+            background: #000;
+            border-radius: 12px;
+            border: 2px solid #333C57;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+            margin-bottom: 20px;
+        }
+
+        #camera-feed {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: none; /* Hidden until the feed arrives */
+        }
+
+        /* Beautiful Loading Overlay */
+        .overlay {
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: rgba(10, 12, 20, 0.85);
+            text-align: center;
+            padding: 20px;
+            z-index: 10;
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(0, 229, 255, 0.1);
+            border-top: 4px solid #00E5FF;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        .overlay-text {
+            color: #00E5FF;
+            font-size: 16px;
+            letter-spacing: 1px;
+            line-height: 1.5;
+        }
+
+        /* Fancy Tactile Buttons */
+        .fancy-btn {
+            background: linear-gradient(145deg, #2A3045, #1B1E2B);
+            border: 1px solid #3E4663;
+            color: #E2E8F0;
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+            font-size: 15px;
+            padding: 15px 25px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .fancy-btn:hover {
+            border-color: #00E5FF;
+            color: #00E5FF;
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .fancy-btn:active {
+            transform: translateY(2px);
+            box-shadow: 0 0 5px rgba(0, 229, 255, 0.3);
+        }
+
+        .stop-btn {
+            border-color: #FF3366;
+            color: #FF3366;
+        }
+        .stop-btn:hover {
+            border-color: #FF3366;
+            color: #FF3366;
+            box-shadow: 0 0 20px rgba(255, 51, 102, 0.4);
+        }
+
+        /* Control Pads */
+        .controls-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .control-group h3 {
+            margin-top: 0;
+            color: #8C99B8;
+            font-size: 14px;
+            text-align: center;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 10px;
+        }
+
+        .d-pad {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .d-pad-row {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .d-pad .fancy-btn {
+            width: 115px;
+        }
+
+        /* Telemetry Indicator */
+        #status-indicator {
+            margin-top: 25px;
+            background: #111420;
+            border: 1px solid #333C57;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-family: monospace;
+            font-size: 16px;
+            color: #FF3366;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            background: #FF3366;
+            border-radius: 50%;
+            box-shadow: 0 0 10px #FF3366;
+        }
+
+    </style>
+
+    <script src="libs/socket.io.min.js"></script>
+    <script>
+        const socket = io();
+        const ui = {
+            onMessage: function(event, callback) { socket.on(event, callback); },
+            sendMessage: function(event, data) { socket.emit(event, data); }
+        };
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1>OAK-D Command Center</h1>
+    </div>
+
+    <div class="dashboard-grid">
+        
+        <!-- 1. Video Section -->
+        <div class="glass-panel video-section">
+            <div class="video-wrapper">
+                
+                <!-- Beautiful Loading Overlay -->
+                <div id="video-overlay" class="overlay">
+                    <div id="loading-spinner" class="spinner"></div>
+                    <p id="overlay-msg" class="overlay-text">
+                        Please hold tight...<br>Establishing secure camera feed.
+                    </p>
+                </div>
+
+                <img id="camera-feed" src="" alt="OAK-D Stream">
+            </div>
+            
+            <button id="btn-toggle-cam" class="fancy-btn" style="width: 100%;">Disable Camera Feed</button>
+        </div>
+
+        <!-- 2. Controls Section -->
+        <div class="glass-panel controls-wrapper">
+            
+            <!-- Robot Movement D-Pad -->
+            <div class="control-group">
+                <h3>ROBOT MOVEMENT</h3>
+                <div class="d-pad">
+                    <button id="btn-forward" class="fancy-btn">Forward</button>
+                    <div class="d-pad-row">
+                        <button id="btn-left" class="fancy-btn">Left</button>
+                        <button id="btn-stop" class="fancy-btn stop-btn">STOP</button>
+                        <button id="btn-right" class="fancy-btn">Right</button>
+                    </div>
+                    <button id="btn-reverse" class="fancy-btn">Reverse</button>
+                </div>
+                
+                <!-- Glowing Telemetry Status -->
+                <div id="status-indicator">
+                    <div id="status-dot" class="status-dot"></div>
+                    <span id="status-text">MOTOR IS STOPPED</span>
+                </div>
+            </div>
+
+            <!-- Camera Pan/Tilt D-Pad -->
+            <div class="control-group">
+                <h3>CAMERA PAN / TILT</h3>
+                <div class="d-pad">
+                    <button id="btn-cam-up" class="fancy-btn">Cam Up</button>
+                    <div class="d-pad-row">
+                        <button id="btn-cam-left" class="fancy-btn">Cam Left</button>
+                        <div style="width: 115px;"></div> <!-- Empty space for D-pad center -->
+                        <button id="btn-cam-right" class="fancy-btn">Cam Right</button>
+                    </div>
+                    <button id="btn-cam-down" class="fancy-btn">Cam Down</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

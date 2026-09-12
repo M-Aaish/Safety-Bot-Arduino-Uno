@@ -1,0 +1,10 @@
+services:
+  oak_d:
+    image: ghcr.io/arduino/app-bricks/python-apps-base:0.10.1
+    privileged: true
+    environment:
+      - UV_NO_PROGRESS=1
+    volumes:
+      - "/run/udev:/run/udev"
+      - "/dev/bus/usb:/dev/bus/usb"
+      - "./:/app"

@@ -1,0 +1,12 @@
+services:
+  custom_ai_brick:
+    image: ghcr.io/arduino/app-bricks/python-apps-base:0.10.1
+    privileged: true
+    network_mode: "host"
+
+    environment:
+      - UV_NO_PROGRESS=1
+    volumes:
+      - "/run/udev:/run/udev"
+      - "/dev/bus/usb:/dev/bus/usb"
+      - "./:/app"

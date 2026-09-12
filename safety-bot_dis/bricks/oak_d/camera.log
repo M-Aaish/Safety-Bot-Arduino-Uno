@@ -1,0 +1,1240 @@
+2026-08-30 18:10:00,875 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:10:03,728 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:10:03,730 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:10:18,696 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:10:19,403 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:10:19,404 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:10:33,986 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:10:34,692 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:10:34,694 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:10:49,327 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:10:50,024 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:10:50,025 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:11:05,097 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:11:05,790 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:11:05,792 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:11:20,369 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:11:21,064 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:11:21,066 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:11:55,208 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:11:55,917 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:11:55,918 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:12:10,505 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:12:11,202 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:12:11,203 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:12:25,740 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:12:26,439 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:12:26,440 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:12:41,000 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:12:41,697 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:12:41,699 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:12:56,309 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:12:57,040 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:12:57,041 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:14:36,378 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:14:36,646 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:14:36,648 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:14:51,226 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:14:51,460 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:14:51,461 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:15:05,802 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:15:06,041 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:15:06,042 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:15:20,646 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:15:20,879 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:15:20,880 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:15:35,279 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:15:35,514 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:15:35,516 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:15:49,907 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:15:50,138 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:15:50,140 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:16:04,547 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:16:04,782 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:16:04,783 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:16:19,139 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:16:19,372 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:16:19,374 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:16:33,713 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:16:33,945 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:16:33,947 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:16:48,339 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:16:48,570 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:16:48,572 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:17:03,003 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:17:03,241 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:17:03,243 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:17:17,761 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:17:17,994 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:17:17,995 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:17:32,385 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:17:32,621 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:17:32,623 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:17:47,064 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:17:47,296 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:17:47,298 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:18:01,589 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:18:01,822 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:18:01,824 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:18:16,227 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:18:16,460 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:18:16,462 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:18:30,926 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:18:31,161 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:18:31,162 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:18:45,527 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:18:45,760 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:18:45,761 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:19:01,202 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:19:01,435 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:19:01,436 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:19:16,056 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:19:16,288 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:19:16,290 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:19:30,678 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:19:30,924 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:19:30,925 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:19:45,242 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:19:45,475 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:19:45,476 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:19:59,998 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:20:00,231 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:20:00,232 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:20:14,585 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:20:14,818 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:20:14,820 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:20:29,221 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:20:29,453 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:20:29,454 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:20:43,930 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:20:44,164 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:20:44,166 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:20:58,421 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:20:58,673 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:20:58,675 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:21:12,983 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:21:13,215 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:21:13,217 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:21:27,553 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:21:27,786 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:21:27,788 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:21:42,121 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:21:42,379 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:21:42,380 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:21:56,778 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:21:57,012 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:21:57,013 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:22:11,336 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:22:11,572 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:22:11,573 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:22:25,940 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:22:26,197 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:22:26,199 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:22:40,515 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:22:40,748 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:22:40,749 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:22:55,212 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:22:55,445 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:22:55,447 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:23:09,975 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:23:10,208 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:23:10,209 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:23:24,584 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:23:24,826 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:23:24,828 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:23:39,252 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:23:39,484 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:23:39,486 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:23:54,364 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:23:54,598 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:23:54,600 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:24:08,969 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:24:09,230 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:24:09,231 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:24:23,474 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:24:23,708 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:24:23,709 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:25:28,507 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:25:28,754 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:25:28,755 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:25:43,250 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:25:43,489 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:25:43,491 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:25:57,823 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:25:58,059 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:25:58,060 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:26:12,388 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:26:12,620 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:26:12,622 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:26:26,938 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:26:27,192 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:26:27,194 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:26:41,498 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:26:41,731 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:26:41,732 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:26:56,038 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:26:56,271 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:26:56,273 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:27:10,575 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:27:10,823 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:27:10,824 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:27:46,398 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:27:46,634 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:27:46,636 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:28:01,096 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:28:01,328 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:28:01,329 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:28:15,632 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:28:15,883 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:28:15,885 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:28:30,247 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:28:30,479 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:28:30,480 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:28:44,876 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:28:45,108 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:28:45,110 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:28:59,524 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:28:59,757 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:28:59,758 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:29:14,034 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:29:14,283 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:29:14,284 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:29:28,787 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:29:29,021 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:29:29,022 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:29:43,333 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:29:43,567 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:29:43,569 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:29:57,944 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:29:58,179 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:29:58,180 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:30:12,561 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:30:12,797 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:30:12,799 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:30:27,049 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:30:27,283 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:30:27,284 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:30:41,744 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:30:41,977 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:30:41,979 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:31:21,645 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:31:21,884 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:31:21,886 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:31:36,235 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:31:36,484 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:31:36,485 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:32:14,071 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:32:14,320 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:32:14,321 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:32:28,443 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:32:28,660 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:32:28,662 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:32:42,890 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:32:43,124 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:32:43,126 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:32:57,565 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:32:57,798 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:32:57,800 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:33:36,298 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:33:36,568 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:33:36,569 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:33:50,967 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:33:51,222 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:33:51,223 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:34:05,681 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:34:05,915 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:34:05,917 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:34:20,319 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:34:20,562 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:34:20,563 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:34:48,170 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:34:48,422 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:34:48,424 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:34:55,679 - depthai_utils - INFO - Pipeline created.
+2026-08-30 18:34:55,685 - __main__ - INFO - Setup complete, parsing frames...
+2026-08-30 18:35:55,722 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-30 18:35:55,958 - __main__ - INFO - Setting up debug run...
+2026-08-30 18:35:55,960 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-30 18:36:00,991 - depthai_utils - INFO - Pipeline created.
+2026-08-30 18:36:00,993 - __main__ - INFO - Setup complete, parsing frames...
+2026-08-31 14:51:59,817 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-08-31 14:52:00,213 - __main__ - INFO - Setting up debug run...
+2026-08-31 14:52:00,215 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-08-31 14:52:00,268 - depthai_utils - INFO - Pipeline created.
+2026-08-31 14:52:00,277 - __main__ - INFO - Setup complete, parsing frames...
+2026-08-31 14:53:30,779 - distance - INFO - DG: 3.6596136523058775
+2026-08-31 14:54:15,621 - distance - INFO - DG: 2.6374958666101556
+2026-08-31 14:54:15,752 - distance - INFO - DG: 2.6374958666101556
+2026-08-31 14:54:15,843 - distance - INFO - DG: 2.6374958666101556
+2026-08-31 14:54:15,910 - distance - INFO - DG: 2.4533462337816383
+2026-08-31 14:59:38,177 - distance - INFO - DG: 1.4759757616304312
+2026-08-31 14:59:38,288 - distance - INFO - DG: 1.3453121436627051
+2026-08-31 14:59:38,396 - distance - INFO - DG: 1.481383138451046
+2026-08-31 14:59:38,495 - distance - INFO - DG: 1.4768308704359423
+2026-08-31 14:59:38,574 - distance - INFO - DG: 1.4730443287081545
+2026-08-31 14:59:38,630 - distance - INFO - DG: 1.4730443287081545
+2026-08-31 14:59:38,687 - distance - INFO - DG: 1.4709783511709895
+2026-08-31 14:59:38,746 - distance - INFO - DG: 1.4709783511709895
+2026-08-31 14:59:38,818 - distance - INFO - DG: 1.4709783511709895
+2026-08-31 14:59:38,893 - distance - INFO - DG: 1.4709783511709895
+2026-08-31 14:59:38,971 - distance - INFO - DG: 1.4717982557089266
+2026-08-31 14:59:39,046 - distance - INFO - DG: 1.4730096731662958
+2026-08-31 14:59:39,120 - distance - INFO - DG: 1.439806780718012
+2026-08-31 14:59:39,190 - distance - INFO - DG: 1.473083084276842
+2026-08-31 14:59:39,298 - distance - INFO - DG: 1.473083084276842
+2026-08-31 14:59:39,398 - distance - INFO - DG: 1.4759678091865451
+2026-08-31 14:59:39,508 - distance - INFO - DG: 1.4759678091865451
+2026-08-31 14:59:39,595 - distance - INFO - DG: 1.4755261119047838
+2026-08-31 14:59:39,677 - distance - INFO - DG: 1.4730096731662958
+2026-08-31 14:59:39,753 - distance - INFO - DG: 1.473083084276842
+2026-08-31 14:59:39,827 - distance - INFO - DG: 1.4739034299122615
+2026-08-31 14:59:39,903 - distance - INFO - DG: 1.4730481318300088
+2026-08-31 14:59:39,978 - distance - INFO - DG: 1.4730481318300088
+2026-08-31 14:59:40,052 - distance - INFO - DG: 1.4730481318300088
+2026-08-31 14:59:40,127 - distance - INFO - DG: 1.4738761110557874
+2026-08-31 14:59:40,204 - distance - INFO - DG: 1.4738761110557874
+2026-08-31 14:59:40,281 - distance - INFO - DG: 1.4743022558775805
+2026-08-31 14:59:40,354 - distance - INFO - DG: 1.4780534699062813
+2026-08-31 14:59:40,431 - distance - INFO - DG: 1.4805605591645843
+2026-08-31 14:59:40,527 - distance - INFO - DG: 1.4805605591645843
+2026-08-31 14:59:40,612 - distance - INFO - DG: 1.4793283931639356
+2026-08-31 14:59:40,689 - distance - INFO - DG: 1.4793283931639356
+2026-08-31 14:59:40,766 - distance - INFO - DG: 1.4763509766826144
+2026-08-31 14:59:40,847 - distance - INFO - DG: 1.4759650770588253
+2026-08-31 14:59:40,906 - distance - INFO - DG: 1.4776117615711613
+2026-08-31 14:59:40,966 - distance - INFO - DG: 1.4788902461354845
+2026-08-31 14:59:41,124 - distance - INFO - DG: 1.478063129849376
+2026-08-31 14:59:41,225 - distance - INFO - DG: 1.478063129849376
+2026-08-31 14:59:41,325 - distance - INFO - DG: 1.478063129849376
+2026-08-31 14:59:41,420 - distance - INFO - DG: 1.4742769936377262
+2026-08-31 14:59:41,509 - distance - INFO - DG: 1.4730287378531222
+2026-08-31 14:59:41,592 - distance - INFO - DG: 1.4750854645714768
+2026-08-31 14:59:41,674 - distance - INFO - DG: 1.4742651914177278
+2026-08-31 14:59:41,732 - distance - INFO - DG: 1.4742651914177278
+2026-08-31 14:59:41,795 - distance - INFO - DG: 1.4742651914177278
+2026-08-31 14:59:41,853 - distance - INFO - DG: 1.4730072325957824
+2026-08-31 14:59:41,899 - distance - INFO - DG: 1.4742676299057589
+2026-08-31 14:59:41,967 - distance - INFO - DG: 1.4742676299057589
+2026-08-31 14:59:42,024 - distance - INFO - DG: 1.4755261119047838
+2026-08-31 14:59:42,087 - distance - INFO - DG: 1.4730096731662958
+2026-08-31 14:59:42,163 - distance - INFO - DG: 1.476788838554404
+2026-08-31 14:59:42,356 - distance - INFO - DG: 1.4742715639830823
+2026-08-31 14:59:42,467 - distance - INFO - DG: 1.4742715639830823
+2026-08-31 14:59:42,585 - distance - INFO - DG: 1.4742676299057589
+2026-08-31 14:59:43,224 - distance - INFO - DG: 1.4755508005327016
+2026-08-31 14:59:43,306 - distance - INFO - DG: 1.4755508005327016
+2026-08-31 14:59:43,386 - distance - INFO - DG: 1.473025976024382
+2026-08-31 14:59:43,465 - distance - INFO - DG: 1.4742658699923987
+2026-08-31 14:59:43,542 - distance - INFO - DG: 1.4767849111829672
+2026-08-31 14:59:43,620 - distance - INFO - DG: 1.4742688287118666
+2026-08-31 14:59:43,707 - distance - INFO - DG: 1.4742688287118666
+2026-08-31 14:59:43,792 - distance - INFO - DG: 1.4734483470826685
+2026-08-31 14:59:43,875 - distance - INFO - DG: 1.4755317601944615
+2026-08-31 14:59:43,954 - distance - INFO - DG: 1.4755261119047838
+2026-08-31 14:59:44,561 - distance - INFO - DG: 1.4738547767015182
+2026-08-31 14:59:44,636 - distance - INFO - DG: 1.474292339608326
+2026-08-31 14:59:44,706 - distance - INFO - DG: 1.474292339608326
+2026-08-31 14:59:44,769 - distance - INFO - DG: 1.474292339608326
+2026-08-31 14:59:44,837 - distance - INFO - DG: 1.4750922235040174
+2026-08-31 14:59:44,890 - distance - INFO - DG: 1.4750922235040174
+2026-08-31 14:59:45,026 - distance - INFO - DG: 1.478865613257278
+2026-08-31 14:59:45,097 - distance - INFO - DG: 1.4763717230461906
+2026-08-31 14:59:45,176 - distance - INFO - DG: 1.4763717230461906
+2026-08-31 14:59:45,254 - distance - INFO - DG: 1.4755354676504382
+2026-08-31 14:59:45,328 - distance - INFO - DG: 1.4780423746824551
+2026-08-31 14:59:45,404 - distance - INFO - DG: 1.4772321699819955
+2026-08-31 14:59:45,492 - distance - INFO - DG: 1.4771774889808744
+2026-08-31 14:59:45,582 - distance - INFO - DG: 1.4771774889808744
+2026-08-31 14:59:45,673 - distance - INFO - DG: 1.4759614439448463
+2026-08-31 14:59:45,759 - distance - INFO - DG: 1.4767824768515136
+2026-08-31 14:59:45,839 - distance - INFO - DG: 1.476348245263984
+2026-08-31 14:59:45,916 - distance - INFO - DG: 1.4755243534924625
+2026-08-31 14:59:45,990 - distance - INFO - DG: 1.4750976501379136
+2026-08-31 14:59:46,063 - distance - INFO - DG: 1.4750976501379136
+2026-08-31 14:59:46,138 - distance - INFO - DG: 1.4751045715005937
+2026-08-31 14:59:46,223 - distance - INFO - DG: 1.4751045715005937
+2026-08-31 14:59:46,315 - distance - INFO - DG: 1.4751228983236024
+2026-08-31 14:59:46,404 - distance - INFO - DG: 1.4742769936377262
+2026-08-31 14:59:46,483 - distance - INFO - DG: 1.4755317601944615
+2026-08-31 14:59:46,560 - distance - INFO - DG: 1.4755317601944615
+2026-08-31 14:59:46,635 - distance - INFO - DG: 1.4768011723650512
+2026-08-31 14:59:46,715 - distance - INFO - DG: 1.4768011723650512
+2026-08-31 14:59:46,793 - distance - INFO - DG: 1.4768011723650512
+2026-08-31 14:59:46,875 - distance - INFO - DG: 1.4768011723650512
+2026-08-31 14:59:46,957 - distance - INFO - DG: 1.4755300426267266
+2026-08-31 14:59:47,035 - distance - INFO - DG: 1.4755300426267266
+2026-08-31 14:59:47,109 - distance - INFO - DG: 1.4768095787668543
+2026-08-31 14:59:47,162 - distance - INFO - DG: 1.475973232601221
+2026-08-31 14:59:47,268 - distance - INFO - DG: 1.4776223733771825
+2026-08-31 14:59:47,349 - distance - INFO - DG: 1.4776223733771825
+2026-08-31 14:59:47,435 - distance - INFO - DG: 1.4755508005327016
+2026-08-31 14:59:47,526 - distance - INFO - DG: 1.4755508005327016
+2026-08-31 14:59:47,616 - distance - INFO - DG: 1.4763563986897195
+2026-08-31 14:59:47,698 - distance - INFO - DG: 1.4767942589539118
+2026-08-31 14:59:47,782 - distance - INFO - DG: 1.4767985983873504
+2026-08-31 14:59:47,862 - distance - INFO - DG: 1.4763563986897195
+2026-08-31 14:59:47,937 - distance - INFO - DG: 1.4738312588249542
+2026-08-31 14:59:47,998 - distance - INFO - DG: 1.4738312588249542
+2026-08-31 14:59:48,881 - distance - INFO - DG: 1.481383138451046
+2026-08-31 14:59:57,700 - distance - INFO - DG: 1.4476955407202496
+2026-08-31 14:59:58,289 - distance - INFO - DG: 1.4434407419652524
+2026-08-31 14:59:58,967 - distance - INFO - DG: 1.444698096268238
+2026-08-31 14:59:59,081 - distance - INFO - DG: 1.444698096268238
+2026-08-31 15:00:00,085 - distance - INFO - DG: 1.4446826996564586
+2026-08-31 15:00:00,825 - distance - INFO - DG: 1.4459446255958448
+2026-08-31 15:00:01,704 - distance - INFO - DG: 1.4481207723646923
+2026-08-31 15:00:01,955 - distance - INFO - DG: 1.4481143314793887
+2026-08-31 15:00:02,311 - distance - INFO - DG: 1.4472345746667494
+2026-08-31 15:00:02,462 - distance - INFO - DG: 1.4472345746667494
+2026-08-31 15:00:02,716 - distance - INFO - DG: 1.445965419522643
+2026-08-31 15:00:03,043 - distance - INFO - DG: 1.4446416291785833
+2026-08-31 15:00:04,239 - distance - INFO - DG: 1.4438190569646159
+2026-08-31 15:00:04,324 - distance - INFO - DG: 1.4438190569646159
+2026-08-31 15:00:04,477 - distance - INFO - DG: 1.4459130920028034
+2026-08-31 15:00:04,558 - distance - INFO - DG: 1.4459130920028034
+2026-08-31 15:00:04,655 - distance - INFO - DG: 1.4459130920028034
+2026-08-31 15:00:04,735 - distance - INFO - DG: 1.4459130920028034
+2026-08-31 15:00:04,812 - distance - INFO - DG: 1.4459130920028034
+2026-08-31 15:00:06,519 - distance - INFO - DG: 1.442955656652873
+2026-08-31 15:00:06,605 - distance - INFO - DG: 1.442955656652873
+2026-08-31 15:00:06,755 - distance - INFO - DG: 1.4416535044763648
+2026-08-31 15:00:09,967 - distance - INFO - DG: 1.4455341916244997
+2026-08-31 15:00:10,026 - distance - INFO - DG: 1.4481207723646923
+2026-08-31 15:00:10,173 - distance - INFO - DG: 1.4481207723646923
+2026-08-31 15:00:10,965 - distance - INFO - DG: 1.444319686981288
+2026-08-31 15:00:11,065 - distance - INFO - DG: 1.444319686981288
+2026-08-31 15:00:11,149 - distance - INFO - DG: 1.444319686981288
+2026-08-31 15:00:11,255 - distance - INFO - DG: 1.599811778123538
+2026-08-31 15:00:11,365 - distance - INFO - DG: 1.599811778123538
+2026-08-31 15:00:13,975 - distance - INFO - DG: 1.4464566981882654
+2026-08-31 15:00:14,200 - distance - INFO - DG: 1.4776027474890174
+2026-08-31 15:00:14,284 - distance - INFO - DG: 1.4776027474890174
+2026-08-31 15:00:14,492 - distance - INFO - DG: 1.4755232856997047
+2026-08-31 15:00:14,567 - distance - INFO - DG: 1.4755232856997047
+2026-08-31 15:00:14,991 - distance - INFO - DG: 1.4481573797618066
+2026-08-31 15:00:15,263 - distance - INFO - DG: 1.4456265421584618
+2026-08-31 15:00:15,329 - distance - INFO - DG: 1.4460369499176162
+2026-08-31 15:00:15,496 - distance - INFO - DG: 1.4447473516418095
+2026-08-31 15:00:15,639 - distance - INFO - DG: 1.4447473516418095
+2026-08-31 15:00:15,926 - distance - INFO - DG: 1.4456818656402501
+2026-08-31 15:00:16,009 - distance - INFO - DG: 1.4452246605879902
+2026-08-31 15:00:16,076 - distance - INFO - DG: 1.4452246605879902
+2026-08-31 15:00:16,136 - distance - INFO - DG: 1.4452246605879902
+2026-08-31 15:00:16,460 - distance - INFO - DG: 1.4481573797618066
+2026-08-31 15:00:16,567 - distance - INFO - DG: 1.4481350942511484
+2026-08-31 15:00:17,074 - distance - INFO - DG: 1.4446549449050063
+2026-08-31 15:00:17,361 - distance - INFO - DG: 1.4464566981882654
+2026-08-31 15:00:17,469 - distance - INFO - DG: 1.4464566981882654
+2026-08-31 15:00:17,569 - distance - INFO - DG: 1.4464566981882654
+2026-08-31 15:00:17,664 - distance - INFO - DG: 1.446867214383117
+2026-08-31 15:00:18,365 - distance - INFO - DG: 1.449385684636477
+2026-08-31 15:00:18,435 - distance - INFO - DG: 1.4481143314793887
+2026-08-31 15:00:18,726 - distance - INFO - DG: 1.4493679823639471
+2026-08-31 15:00:20,327 - distance - INFO - DG: 1.4472776491169315
+2026-08-31 15:00:20,809 - distance - INFO - DG: 1.5980142950748446
+2026-08-31 15:00:20,883 - distance - INFO - DG: 1.5993445568510791
+2026-08-31 15:00:21,172 - distance - INFO - DG: 1.5980051511683016
+2026-08-31 15:00:21,253 - distance - INFO - DG: 1.5980051511683016
+2026-08-31 15:00:21,327 - distance - INFO - DG: 1.598010786715516
+2026-08-31 15:00:21,404 - distance - INFO - DG: 1.598010786715516
+2026-08-31 15:00:21,476 - distance - INFO - DG: 1.4482065174806844
+2026-08-31 15:00:21,549 - distance - INFO - DG: 1.5984945204318302
+2026-08-31 15:00:21,593 - distance - INFO - DG: 1.5976516788867752
+2026-08-31 15:00:21,660 - distance - INFO - DG: 1.5963053033159336
+2026-08-31 15:00:21,824 - distance - INFO - DG: 1.60066616590214
+2026-08-31 15:00:21,937 - distance - INFO - DG: 1.5993552753542974
+2026-08-31 15:00:22,041 - distance - INFO - DG: 1.443485174709973
+2026-08-31 15:00:22,122 - distance - INFO - DG: 1.5985087519089296
+2026-08-31 15:00:22,200 - distance - INFO - DG: 1.5976516788867752
+2026-08-31 15:00:22,278 - distance - INFO - DG: 1.4434666405964125
+2026-08-31 15:00:22,335 - distance - INFO - DG: 1.5971589206974854
+2026-08-31 15:00:22,368 - distance - INFO - DG: 1.5971589206974854
+2026-08-31 15:00:22,456 - distance - INFO - DG: 1.5971589206974854
+2026-08-31 15:00:22,552 - distance - INFO - DG: 1.5976624087472853
+2026-08-31 15:00:22,632 - distance - INFO - DG: 1.5976624087472853
+2026-08-31 15:00:22,711 - distance - INFO - DG: 1.5985164010286756
+2026-08-31 15:00:22,860 - distance - INFO - DG: 1.4468910433802575
+2026-08-31 15:00:22,955 - distance - INFO - DG: 1.4468910433802575
+2026-08-31 15:00:23,036 - distance - INFO - DG: 1.4490372704425887
+2026-08-31 15:00:23,119 - distance - INFO - DG: 1.4490372704425887
+2026-08-31 15:00:23,324 - distance - INFO - DG: 1.4455773167416814
+2026-08-31 15:00:23,394 - distance - INFO - DG: 1.448524897117794
+2026-08-31 15:00:23,821 - distance - INFO - DG: 1.448524897117794
+2026-08-31 15:00:24,254 - distance - INFO - DG: 1.446824127713585
+2026-08-31 15:00:24,351 - distance - INFO - DG: 1.4481143314793887
+2026-08-31 15:00:24,525 - distance - INFO - DG: 1.448524897117794
+2026-08-31 15:00:25,734 - distance - INFO - DG: 1.475522733405429
+2026-08-31 15:00:25,818 - distance - INFO - DG: 1.445601167001234
+2026-08-31 15:00:26,387 - distance - INFO - DG: 1.443485174709973
+2026-08-31 15:00:26,461 - distance - INFO - DG: 1.443485174709973
+2026-08-31 15:00:26,533 - distance - INFO - DG: 1.443458234897378
+2026-08-31 15:00:29,394 - distance - INFO - DG: 1.5962993210124279
+2026-08-31 15:00:29,479 - distance - INFO - DG: 1.6306200697702922
+2026-08-31 15:00:29,558 - distance - INFO - DG: 1.4776139069701795
+2026-08-31 15:00:29,638 - distance - INFO - DG: 1.6371697400726644
+2026-08-31 15:01:24,063 - distance - INFO - DG: 1.4532881973016223
+2026-08-31 15:01:27,222 - distance - INFO - DG: 1.4476658355464405
+2026-08-31 15:01:27,381 - distance - INFO - DG: 1.4481573797618066
+2026-08-31 15:01:27,474 - distance - INFO - DG: 1.4481573797618066
+2026-08-31 15:01:27,566 - distance - INFO - DG: 1.4503280621661514
+2026-08-31 15:02:18,208 - distance - INFO - DG: 1.4920371006410726
+2026-08-31 15:02:18,281 - distance - INFO - DG: 1.4920371006410726
+2026-08-31 15:02:36,599 - distance - INFO - DG: 1.4957580055026647
+2026-08-31 15:02:38,387 - distance - INFO - DG: 1.450314063066184
+2026-08-31 15:11:14,964 - distance - INFO - DG: 1.4428911645874085
+2026-08-31 15:11:15,042 - distance - INFO - DG: 1.4471577607221033
+2026-08-31 15:11:15,196 - distance - INFO - DG: 1.4471577607221033
+2026-08-31 15:11:15,294 - distance - INFO - DG: 1.5694271462588396
+2026-09-08 16:08:13,719 - root - INFO - Logging system initialized, kept in file /app/camera.log...
+2026-09-08 16:08:14,253 - __main__ - INFO - Setting up debug run...
+2026-09-08 16:08:14,256 - depthai_utils - INFO - Creating DepthAI pipeline...
+2026-09-08 16:08:24,691 - depthai_utils - INFO - Pipeline created.
+2026-09-08 16:08:24,706 - __main__ - INFO - Setup complete, parsing frames...
+2026-09-08 16:09:24,287 - distance - INFO - DG: 0.26002345996997234
+2026-09-08 16:09:24,382 - distance - INFO - DG: 0.26002345996997234
+2026-09-08 16:09:24,469 - distance - INFO - DG: 0.25615223291771366
+2026-09-08 16:09:24,551 - distance - INFO - DG: 0.24872100830078125
+2026-09-08 16:09:24,630 - distance - INFO - DG: 0.3156288998153864
+2026-09-08 16:09:24,707 - distance - INFO - DG: 0.30071551027977217
+2026-09-08 16:09:24,782 - distance - INFO - DG: 0.3136910384031953
+2026-09-08 16:09:24,873 - distance - INFO - DG: 0.3136910384031953
+2026-09-08 16:09:24,982 - distance - INFO - DG: 0.3100232786638893
+2026-09-08 16:11:26,379 - distance - INFO - DG: 1.0928032361743782
+2026-09-08 16:11:28,283 - distance - INFO - DG: 0.9990655271049799
+2026-09-08 16:11:28,359 - distance - INFO - DG: 0.995908646326497
+2026-09-08 16:11:28,447 - distance - INFO - DG: 0.995908646326497
+2026-09-08 16:11:28,541 - distance - INFO - DG: 0.9883667174559229
+2026-09-08 16:11:28,638 - distance - INFO - DG: 0.9883667174559229
+2026-09-08 16:11:29,551 - distance - INFO - DG: 0.7629790332692306
+2026-09-08 16:11:29,678 - distance - INFO - DG: 0.7629790332692306
+2026-09-08 16:11:29,796 - distance - INFO - DG: 0.783324892851604
+2026-09-08 16:11:29,901 - distance - INFO - DG: 0.64110328481383
+2026-09-08 16:11:29,988 - distance - INFO - DG: 0.9039592938922971
+2026-09-08 16:11:30,067 - distance - INFO - DG: 0.9072052658231928
+2026-09-08 16:11:30,149 - distance - INFO - DG: 0.8758928166341967
+2026-09-08 16:11:30,226 - distance - INFO - DG: 0.8847002556949961
+2026-09-08 16:11:30,304 - distance - INFO - DG: 0.8847002556949961
+2026-09-08 16:11:30,381 - distance - INFO - DG: 0.8847002556949961
+2026-09-08 16:11:30,457 - distance - INFO - DG: 0.8847002556949961
+2026-09-08 16:11:30,537 - distance - INFO - DG: 0.7496932257735242
+2026-09-08 16:11:30,616 - distance - INFO - DG: 0.7811501140228799
+2026-09-08 16:11:31,048 - distance - INFO - DG: 0.6153194106396122
+2026-09-08 16:11:31,147 - distance - INFO - DG: 0.6034240640821333
+2026-09-08 16:11:31,238 - distance - INFO - DG: 0.6034240640821333
+2026-09-08 16:11:31,322 - distance - INFO - DG: 0.6665798066012015
+2026-09-08 16:11:31,404 - distance - INFO - DG: 0.697254454715769
+2026-09-08 16:11:31,488 - distance - INFO - DG: 0.7142186401562474
+2026-09-08 16:11:31,564 - distance - INFO - DG: 0.7142186401562474
+2026-09-08 16:11:31,656 - distance - INFO - DG: 0.7629289691529649
+2026-09-08 16:11:31,750 - distance - INFO - DG: 0.7629289691529649
+2026-09-08 16:11:31,834 - distance - INFO - DG: 0.7588761358967865
+2026-09-08 16:11:31,916 - distance - INFO - DG: 0.7588761358967865
+2026-09-08 16:11:31,997 - distance - INFO - DG: 0.9143890221663026
+2026-09-08 16:11:32,078 - distance - INFO - DG: 0.9537037940339266
+2026-09-08 16:11:32,156 - distance - INFO - DG: 0.9472323063951412
+2026-09-08 16:11:32,229 - distance - INFO - DG: 0.9410147970559163
+2026-09-08 16:11:32,307 - distance - INFO - DG: 0.9410147970559163
+2026-09-08 16:11:32,385 - distance - INFO - DG: 0.9410147970559163
+2026-09-08 16:11:32,460 - distance - INFO - DG: 0.9672234826797017
+2026-09-08 16:11:32,537 - distance - INFO - DG: 0.982055218140753
+2026-09-08 16:11:32,614 - distance - INFO - DG: 0.9746375508444297
+2026-09-08 16:11:32,692 - distance - INFO - DG: 0.9749268683914097
+2026-09-08 16:11:32,768 - distance - INFO - DG: 0.9568331638414472
+2026-09-08 16:11:32,877 - distance - INFO - DG: 0.9568331638414472
+2026-09-08 16:11:32,979 - distance - INFO - DG: 0.9264896848215481
+2026-09-08 16:11:33,075 - distance - INFO - DG: 0.8774787007318414
+2026-09-08 16:11:33,164 - distance - INFO - DG: 0.9040693193137287
+2026-09-08 16:11:33,251 - distance - INFO - DG: 0.8771375099250392
+2026-09-08 16:11:33,334 - distance - INFO - DG: 0.8405302048703106
+2026-09-08 16:11:33,414 - distance - INFO - DG: 0.8080681534605808
+2026-09-08 16:11:33,495 - distance - INFO - DG: 0.7956345131389491
+2026-09-08 16:11:33,578 - distance - INFO - DG: 0.7956345131389491
+2026-09-08 16:11:33,658 - distance - INFO - DG: 0.7956345131389491
+2026-09-08 16:11:33,737 - distance - INFO - DG: 0.7397647048357479
+2026-09-08 16:11:33,819 - distance - INFO - DG: 0.693289253704588
+2026-09-08 16:11:33,897 - distance - INFO - DG: 0.6829181850869368
+2026-09-08 16:11:33,973 - distance - INFO - DG: 0.6779082123505158
+2026-09-08 16:11:34,046 - distance - INFO - DG: 0.6779082123505158
+2026-09-08 16:11:34,119 - distance - INFO - DG: 0.6779082123505158
+2026-09-08 16:11:34,193 - distance - INFO - DG: 0.6779082123505158
+2026-09-08 16:11:34,268 - distance - INFO - DG: 0.6673216256499342
+2026-09-08 16:11:34,345 - distance - INFO - DG: 0.6620303663816959
+2026-09-08 16:11:34,422 - distance - INFO - DG: 0.6619487664214289
+2026-09-08 16:11:34,500 - distance - INFO - DG: 0.6676942095617633
+2026-09-08 16:11:34,575 - distance - INFO - DG: 0.6758755973792813
+2026-09-08 16:11:34,672 - distance - INFO - DG: 0.6758755973792813
+2026-09-08 16:11:34,769 - distance - INFO - DG: 0.6619584805256895
+2026-09-08 16:11:34,859 - distance - INFO - DG: 0.6619584805256895
+2026-09-08 16:11:34,940 - distance - INFO - DG: 0.6744304379155701
+2026-09-08 16:11:35,017 - distance - INFO - DG: 0.6725318637717801
+2026-09-08 16:11:35,092 - distance - INFO - DG: 0.6725318637717801
+2026-09-08 16:11:35,167 - distance - INFO - DG: 0.6744511506996631
+2026-09-08 16:11:35,244 - distance - INFO - DG: 0.6736923141651919
+2026-09-08 16:11:35,319 - distance - INFO - DG: 0.6736923141651919
+2026-09-08 16:11:35,406 - distance - INFO - DG: 0.4937413305401401
+2026-09-08 16:11:35,482 - distance - INFO - DG: 0.4937413305401401
+2026-09-08 16:11:35,557 - distance - INFO - DG: 0.682799417121595
+2026-09-08 16:11:35,631 - distance - INFO - DG: 0.6898276617487665
+2026-09-08 16:11:35,704 - distance - INFO - DG: 0.6918830141555359
+2026-09-08 16:11:35,783 - distance - INFO - DG: 0.6789392534115973
+2026-09-08 16:11:35,861 - distance - INFO - DG: 0.6814182050225226
+2026-09-08 16:11:35,979 - distance - INFO - DG: 0.6814182050225226
+2026-09-08 16:11:36,068 - distance - INFO - DG: 0.5041909902461632
+2026-09-08 16:11:36,156 - distance - INFO - DG: 0.5041909902461632
+2026-09-08 16:11:36,240 - distance - INFO - DG: 0.4821796626077245
+2026-09-08 16:11:36,319 - distance - INFO - DG: 0.47691567711473426
+2026-09-08 16:11:36,395 - distance - INFO - DG: 0.48159205053024345
+2026-09-08 16:11:36,471 - distance - INFO - DG: 0.49711814003653165
+2026-09-08 16:11:36,567 - distance - INFO - DG: 0.49854988213655194
+2026-09-08 16:11:36,654 - distance - INFO - DG: 0.49854988213655194
+2026-09-08 16:11:36,737 - distance - INFO - DG: 0.554603521944952
+2026-09-08 16:11:36,820 - distance - INFO - DG: 0.5543595305288013
+2026-09-08 16:11:36,904 - distance - INFO - DG: 0.7182838594125291
+2026-09-08 16:11:36,987 - distance - INFO - DG: 0.7182838594125291
+2026-09-08 16:11:37,065 - distance - INFO - DG: 0.5623076139282613
+2026-09-08 16:11:37,139 - distance - INFO - DG: 0.7225536014351263
+2026-09-08 16:11:37,215 - distance - INFO - DG: 0.7225536014351263
+2026-09-08 16:11:37,291 - distance - INFO - DG: 0.7238959980369472
+2026-09-08 16:11:37,370 - distance - INFO - DG: 0.7238959980369472
+2026-09-08 16:11:37,447 - distance - INFO - DG: 0.746938459344743
+2026-09-08 16:11:37,548 - distance - INFO - DG: 0.7735469239612767
+2026-09-08 16:11:37,638 - distance - INFO - DG: 0.7735469239612767
+2026-09-08 16:11:37,729 - distance - INFO - DG: 0.7784844773737898
+2026-09-08 16:11:37,808 - distance - INFO - DG: 0.7784844773737898
+2026-09-08 16:11:37,888 - distance - INFO - DG: 0.7764936030373059
+2026-09-08 16:11:37,967 - distance - INFO - DG: 0.7870348071481684
+2026-09-08 16:11:38,044 - distance - INFO - DG: 0.7624775922153817
+2026-09-08 16:11:38,121 - distance - INFO - DG: 0.7674770830160266
+2026-09-08 16:11:38,196 - distance - INFO - DG: 0.7674770830160266
+2026-09-08 16:11:38,276 - distance - INFO - DG: 0.7674770830160266
+2026-09-08 16:11:38,354 - distance - INFO - DG: 0.7674770830160266
+2026-09-08 16:11:38,432 - distance - INFO - DG: 0.7674770830160266
+2026-09-08 16:11:38,506 - distance - INFO - DG: 0.7581467161585521
+2026-09-08 16:11:38,588 - distance - INFO - DG: 0.7581467161585521
+2026-09-08 16:11:38,673 - distance - INFO - DG: 0.7581467161585521
+2026-09-08 16:11:38,749 - distance - INFO - DG: 1.1208891436936061
+2026-09-08 16:11:38,827 - distance - INFO - DG: 1.1805196469695773
+2026-09-08 16:11:38,903 - distance - INFO - DG: 1.2090983047278467
+2026-09-08 16:11:38,984 - distance - INFO - DG: 1.2090983047278467
+2026-09-08 16:11:39,062 - distance - INFO - DG: 1.20938241108813
+2026-09-08 16:11:39,140 - distance - INFO - DG: 1.268703654859401
+2026-09-08 16:11:39,216 - distance - INFO - DG: 1.3187228074442265
+2026-09-08 16:11:39,294 - distance - INFO - DG: 1.3329974746140947
+2026-09-08 16:11:39,370 - distance - INFO - DG: 1.3886318375208526
+2026-09-08 16:11:39,444 - distance - INFO - DG: 1.4226972840356513
+2026-09-08 16:11:39,519 - distance - INFO - DG: 1.4586096365757373
+2026-09-08 16:11:39,680 - distance - INFO - DG: 1.2656532696714342
+2026-09-08 16:11:39,791 - distance - INFO - DG: 1.2656532696714342
+2026-09-08 16:11:39,915 - distance - INFO - DG: 1.3797077204962886
+2026-09-08 16:11:40,026 - distance - INFO - DG: 1.4508981190900596
+2026-09-08 16:11:40,117 - distance - INFO - DG: 1.4760540041088535
+2026-09-08 16:11:40,155 - distance - INFO - DG: 1.4760540041088535
+2026-09-08 16:11:40,275 - distance - INFO - DG: 1.7655017837009441
+2026-09-08 16:11:40,355 - distance - INFO - DG: 1.7995999747250697
+2026-09-08 16:11:40,436 - distance - INFO - DG: 1.7995999747250697
+2026-09-08 16:11:40,515 - distance - INFO - DG: 1.82602413077646
+2026-09-08 16:11:40,594 - distance - INFO - DG: 1.859247008698532
+2026-09-08 16:11:40,674 - distance - INFO - DG: 1.8792137297008944
+2026-09-08 16:11:40,753 - distance - INFO - DG: 1.8790166375572606
+2026-09-08 16:11:40,832 - distance - INFO - DG: 1.8790166375572606
+2026-09-08 16:11:40,908 - distance - INFO - DG: 1.8790166375572606
+2026-09-08 16:11:40,985 - distance - INFO - DG: 1.8790166375572606
+2026-09-08 16:11:41,062 - distance - INFO - DG: 1.8888587867399165
+2026-09-08 16:11:41,142 - distance - INFO - DG: 1.978551926140698
+2026-09-08 16:11:41,220 - distance - INFO - DG: 1.936750629908862
+2026-09-08 16:11:41,299 - distance - INFO - DG: 1.936750629908862
+2026-09-08 16:11:41,377 - distance - INFO - DG: 1.941995129805151
+2026-09-08 16:11:41,437 - distance - INFO - DG: 1.941995129805151
+2026-09-08 16:11:41,539 - distance - INFO - DG: 1.9306003250999517
+2026-09-08 16:11:41,616 - distance - INFO - DG: 1.9084828791054702
+2026-09-08 16:11:41,698 - distance - INFO - DG: 1.9078769237186033
+2026-09-08 16:11:41,784 - distance - INFO - DG: 1.903944353371915
+2026-09-08 16:11:41,859 - distance - INFO - DG: 1.9114300795393468
+2026-09-08 16:11:41,934 - distance - INFO - DG: 1.9247517842308717
+2026-09-08 16:11:42,012 - distance - INFO - DG: 1.9247517842308717
+2026-09-08 16:11:42,085 - distance - INFO - DG: 1.929048434551071
+2026-09-08 16:11:42,160 - distance - INFO - DG: 1.929048434551071
+2026-09-08 16:11:42,234 - distance - INFO - DG: 1.9495129979613028
+2026-09-08 16:11:42,309 - distance - INFO - DG: 1.9784779868228204
+2026-09-08 16:11:42,385 - distance - INFO - DG: 1.982827404342893
+2026-09-08 16:11:42,461 - distance - INFO - DG: 1.982827404342893
+2026-09-08 16:11:42,535 - distance - INFO - DG: 1.9917469821291975
+2026-09-08 16:11:42,614 - distance - INFO - DG: 1.9917469821291975
+2026-09-08 16:11:42,689 - distance - INFO - DG: 1.994939200968685
+2026-09-08 16:11:42,763 - distance - INFO - DG: 1.994939200968685
+2026-09-08 16:11:42,842 - distance - INFO - DG: 1.9933540092967137
+2026-09-08 16:11:42,919 - distance - INFO - DG: 2.0038613152036158
+2026-09-08 16:11:43,000 - distance - INFO - DG: 2.0059768437724363
+2026-09-08 16:11:43,075 - distance - INFO - DG: 2.005508247436009
+2026-09-08 16:11:43,149 - distance - INFO - DG: 2.0113251499963587
+2026-09-08 16:11:43,235 - distance - INFO - DG: 2.0113251499963587
+2026-09-08 16:11:43,276 - distance - INFO - DG: 2.0189420526229838
+2026-09-08 16:11:43,379 - distance - INFO - DG: 2.021767806384136
+2026-09-08 16:11:43,454 - distance - INFO - DG: 2.0260208610989445
+2026-09-08 16:11:43,527 - distance - INFO - DG: 2.0301525683742123
+2026-09-08 16:11:43,606 - distance - INFO - DG: 2.034065212599038
+2026-09-08 16:11:43,687 - distance - INFO - DG: 2.0399921320698278
+2026-09-08 16:11:43,763 - distance - INFO - DG: 2.0424916978151333
+2026-09-08 16:11:43,843 - distance - INFO - DG: 2.05707020333573
+2026-09-08 16:11:43,990 - distance - INFO - DG: 2.071196532753799
+2026-09-08 16:11:44,089 - distance - INFO - DG: 2.071196532753799
+2026-09-08 16:11:44,188 - distance - INFO - DG: 2.094193272100034
+2026-09-08 16:11:44,272 - distance - INFO - DG: 2.094193272100034
+2026-09-08 16:11:44,362 - distance - INFO - DG: 2.1065465751718464
+2026-09-08 16:11:44,445 - distance - INFO - DG: 2.1099156151695424
+2026-09-08 16:11:44,523 - distance - INFO - DG: 2.1233973125440184
+2026-09-08 16:11:44,566 - distance - INFO - DG: 2.091477248739359
+2026-09-08 16:11:44,681 - distance - INFO - DG: 2.0617331991495016
+2026-09-08 16:11:44,756 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:44,834 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:44,911 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:44,985 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:45,060 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:45,138 - distance - INFO - DG: 2.0533907080350624
+2026-09-08 16:11:45,213 - distance - INFO - DG: 2.0599277027649916
+2026-09-08 16:11:45,289 - distance - INFO - DG: 2.0599277027649916
+2026-09-08 16:11:45,373 - distance - INFO - DG: 2.0698424903510357
+2026-09-08 16:11:45,456 - distance - INFO - DG: 2.0698424903510357
+2026-09-08 16:11:45,537 - distance - INFO - DG: 2.0369773052566753
+2026-09-08 16:11:45,614 - distance - INFO - DG: 2.0622303175016903
+2026-09-08 16:11:45,689 - distance - INFO - DG: 2.0622303175016903
+2026-09-08 16:11:45,777 - distance - INFO - DG: 2.0622303175016903
+2026-09-08 16:11:45,859 - distance - INFO - DG: 2.03662831213561
+2026-09-08 16:11:45,949 - distance - INFO - DG: 2.03662831213561
+2026-09-08 16:11:46,029 - distance - INFO - DG: 2.03662831213561
+2026-09-08 16:11:46,106 - distance - INFO - DG: 2.0307179995436067
+2026-09-08 16:11:46,182 - distance - INFO - DG: 2.0307179995436067
+2026-09-08 16:11:46,277 - distance - INFO - DG: 2.0307179995436067
+2026-09-08 16:11:46,367 - distance - INFO - DG: 2.0453907480711266
+2026-09-08 16:11:46,447 - distance - INFO - DG: 2.028901502497898
+2026-09-08 16:11:46,522 - distance - INFO - DG: 2.0366831125066676
+2026-09-08 16:11:46,596 - distance - INFO - DG: 2.0611952213767437
+2026-09-08 16:11:46,670 - distance - INFO - DG: 2.069752600898002
+2026-09-08 16:11:46,745 - distance - INFO - DG: 2.073253993923608
+2026-09-08 16:11:46,846 - distance - INFO - DG: 2.069649569474039
+2026-09-08 16:11:46,937 - distance - INFO - DG: 2.069649569474039
+2026-09-08 16:11:47,015 - distance - INFO - DG: 2.078796772516662
+2026-09-08 16:11:47,093 - distance - INFO - DG: 2.0792860838332494
+2026-09-08 16:11:47,172 - distance - INFO - DG: 2.0698902239706305
+2026-09-08 16:11:47,248 - distance - INFO - DG: 2.0698902239706305
+2026-09-08 16:11:47,321 - distance - INFO - DG: 2.0777466512136793
+2026-09-08 16:11:47,417 - distance - INFO - DG: 2.0777466512136793
+2026-09-08 16:11:47,503 - distance - INFO - DG: 2.0777466512136793
+2026-09-08 16:11:47,580 - distance - INFO - DG: 2.0808278038591843
+2026-09-08 16:11:47,659 - distance - INFO - DG: 2.0808278038591843
+2026-09-08 16:11:47,743 - distance - INFO - DG: 2.0808278038591843
+2026-09-08 16:11:47,819 - distance - INFO - DG: 2.0699412882432955
+2026-09-08 16:11:47,896 - distance - INFO - DG: 2.0864561982209398
+2026-09-08 16:11:47,963 - distance - INFO - DG: 2.080786726496163
+2026-09-08 16:11:48,072 - distance - INFO - DG: 2.080786726496163
+2026-09-08 16:11:48,168 - distance - INFO - DG: 2.091776943900157
+2026-09-08 16:11:48,250 - distance - INFO - DG: 2.036581054173551
+2026-09-08 16:11:48,327 - distance - INFO - DG: 2.0469854703767814
+2026-09-08 16:11:48,404 - distance - INFO - DG: 2.0366452464190528
+2026-09-08 16:11:48,480 - distance - INFO - DG: 2.052696700754943
+2026-09-08 16:11:48,556 - distance - INFO - DG: 2.065115804790162
+2026-09-08 16:11:48,645 - distance - INFO - DG: 2.065115804790162
+2026-09-08 16:11:48,744 - distance - INFO - DG: 2.057439744376959
+2026-09-08 16:11:48,846 - distance - INFO - DG: 2.057439744376959
+2026-09-08 16:11:48,942 - distance - INFO - DG: 2.0950213299199003
+2026-09-08 16:11:49,033 - distance - INFO - DG: 2.0538582268351457
+2026-09-08 16:11:49,121 - distance - INFO - DG: 2.0538582268351457
+2026-09-08 16:11:49,207 - distance - INFO - DG: 2.0538582268351457
+2026-09-08 16:11:49,290 - distance - INFO - DG: 2.0538582268351457
+2026-09-08 16:11:49,371 - distance - INFO - DG: 2.0538582268351457
+2026-09-08 16:11:49,450 - distance - INFO - DG: 2.059927697560939
+2026-09-08 16:11:49,526 - distance - INFO - DG: 1.990263874701288
+2026-09-08 16:11:49,601 - distance - INFO - DG: 1.9796143446315377
+2026-09-08 16:11:49,673 - distance - INFO - DG: 1.9822163555898158
+2026-09-08 16:11:49,748 - distance - INFO - DG: 1.9884336036284662
+2026-09-08 16:11:49,822 - distance - INFO - DG: 1.9884336036284662
+2026-09-08 16:11:49,896 - distance - INFO - DG: 1.9884336036284662
+2026-09-08 16:11:49,969 - distance - INFO - DG: 1.9884336036284662
+2026-09-08 16:11:50,043 - distance - INFO - DG: 1.9715945521367262
+2026-09-08 16:11:50,117 - distance - INFO - DG: 1.9807775069647002
+2026-09-08 16:11:50,191 - distance - INFO - DG: 1.9884336036284662
+2026-09-08 16:11:50,266 - distance - INFO - DG: 1.9718200247148732
+2026-09-08 16:11:50,340 - distance - INFO - DG: 1.9860392838655678
+2026-09-08 16:11:50,443 - distance - INFO - DG: 2.00379620139337
+2026-09-08 16:11:50,544 - distance - INFO - DG: 2.00379620139337
+2026-09-08 16:11:50,631 - distance - INFO - DG: 2.002918547705615
+2026-09-08 16:11:50,712 - distance - INFO - DG: 2.000683393235738
+2026-09-08 16:11:50,792 - distance - INFO - DG: 1.9999203051396208
+2026-09-08 16:11:50,866 - distance - INFO - DG: 1.9940704873627118
+2026-09-08 16:11:50,942 - distance - INFO - DG: 1.9979146236729044
+2026-09-08 16:11:51,019 - distance - INFO - DG: 1.9979146236729044
+2026-09-08 16:11:51,095 - distance - INFO - DG: 1.976226903974998
+2026-09-08 16:11:51,175 - distance - INFO - DG: 1.9714443899487017
+2026-09-08 16:11:51,250 - distance - INFO - DG: 1.9714443899487017
+2026-09-08 16:11:51,328 - distance - INFO - DG: 1.9447126118442213
+2026-09-08 16:11:51,402 - distance - INFO - DG: 1.836964979824196
+2026-09-08 16:11:51,477 - distance - INFO - DG: 1.8243060285350872
+2026-09-08 16:11:51,551 - distance - INFO - DG: 1.8287602900900581
+2026-09-08 16:11:51,677 - distance - INFO - DG: 1.8287602900900581
+2026-09-08 16:11:51,798 - distance - INFO - DG: 1.5942178788064882
+2026-09-08 16:11:51,917 - distance - INFO - DG: 1.574670865323152
+2026-09-08 16:11:52,015 - distance - INFO - DG: 1.5719719714595226
+2026-09-08 16:11:52,098 - distance - INFO - DG: 1.5755149529246315
+2026-09-08 16:11:52,174 - distance - INFO - DG: 1.5667666094916028
+2026-09-08 16:11:52,250 - distance - INFO - DG: 1.5699441568947399
+2026-09-08 16:11:52,325 - distance - INFO - DG: 1.5699441568947399
+2026-09-08 16:11:52,401 - distance - INFO - DG: 1.4766043104169209
+2026-09-08 16:11:52,476 - distance - INFO - DG: 1.4766043104169209
+2026-09-08 16:11:52,550 - distance - INFO - DG: 1.495359906494626
+2026-09-08 16:11:52,626 - distance - INFO - DG: 1.4977611037760927
+2026-09-08 16:11:52,684 - distance - INFO - DG: 1.4868181592850587
+2026-09-08 16:11:52,782 - distance - INFO - DG: 1.5069981404252881
+2026-09-08 16:11:52,856 - distance - INFO - DG: 1.5069981404252881
+2026-09-08 16:11:52,930 - distance - INFO - DG: 1.5069981404252881
+2026-09-08 16:11:53,005 - distance - INFO - DG: 1.5069981404252881
+2026-09-08 16:11:53,080 - distance - INFO - DG: 1.5064333616759789
+2026-09-08 16:11:53,155 - distance - INFO - DG: 1.4924633584794544
+2026-09-08 16:11:53,229 - distance - INFO - DG: 1.4920334579050214
+2026-09-08 16:11:53,302 - distance - INFO - DG: 1.3776254455389334
+2026-09-08 16:11:53,377 - distance - INFO - DG: 1.3842350091129278
+2026-09-08 16:11:53,452 - distance - INFO - DG: 1.532320289684691
+2026-09-08 16:11:53,527 - distance - INFO - DG: 1.5608789421788052
+2026-09-08 16:11:53,601 - distance - INFO - DG: 1.6061460428717107
+2026-09-08 16:11:53,747 - distance - INFO - DG: 1.5941832533907372
+2026-09-08 16:11:53,859 - distance - INFO - DG: 1.6646943955229145
+2026-09-08 16:11:53,949 - distance - INFO - DG: 1.6741789106531204
+2026-09-08 16:11:54,028 - distance - INFO - DG: 1.7369313474395638
+2026-09-08 16:11:54,101 - distance - INFO - DG: 1.7369313474395638
+2026-09-08 16:11:54,179 - distance - INFO - DG: 1.7369313474395638
+2026-09-08 16:11:54,261 - distance - INFO - DG: 1.7369313474395638
+2026-09-08 16:11:54,335 - distance - INFO - DG: 1.790384090147666
+2026-09-08 16:11:54,413 - distance - INFO - DG: 1.8497744206997477
+2026-09-08 16:12:05,517 - distance - INFO - DG: 3.032090873876273
+2026-09-08 16:12:05,596 - distance - INFO - DG: 2.648858863368339
+2026-09-08 16:12:05,667 - distance - INFO - DG: 2.647958446864671
+2026-09-08 16:12:05,788 - distance - INFO - DG: 2.647958446864671
+2026-09-08 16:12:05,873 - distance - INFO - DG: 0.9670933996109804
+2026-09-08 16:12:05,960 - distance - INFO - DG: 0.9670933996109804
+2026-09-08 16:12:06,061 - distance - INFO - DG: 0.9670933996109804
+2026-09-08 16:12:06,148 - distance - INFO - DG: 0.9670933996109804
+2026-09-08 16:12:06,230 - distance - INFO - DG: 0.21348531199689008
+2026-09-08 16:12:06,441 - distance - INFO - DG: 2.2967481474670883
+2026-09-08 16:12:06,513 - distance - INFO - DG: 2.3426167887979674
+2026-09-08 16:12:06,583 - distance - INFO - DG: 2.359841034430031
+2026-09-08 16:12:06,656 - distance - INFO - DG: 2.356465578047979
+2026-09-08 16:12:06,744 - distance - INFO - DG: 2.376275513400325
+2026-09-08 16:12:06,818 - distance - INFO - DG: 2.40152354014322
+2026-09-08 16:12:07,161 - distance - INFO - DG: 2.14152033744626
+2026-09-08 16:12:07,254 - distance - INFO - DG: 2.1414930074153724
+2026-09-08 16:12:27,266 - distance - INFO - DG: 3.357414015218846
+2026-09-08 16:12:29,877 - distance - INFO - DG: 1.1479913440046894
+2026-09-08 16:12:29,960 - distance - INFO - DG: 0.9280874901211592
+2026-09-08 16:12:30,035 - distance - INFO - DG: 1.413645970213057
+2026-09-08 16:12:30,108 - distance - INFO - DG: 1.413645970213057
+2026-09-08 16:12:30,181 - distance - INFO - DG: 1.413645970213057
+2026-09-08 16:12:30,252 - distance - INFO - DG: 1.1250639431880554
+2026-09-08 16:12:30,322 - distance - INFO - DG: 1.1250639431880554
+2026-09-08 16:12:30,399 - distance - INFO - DG: 1.1250639431880554
+2026-09-08 16:12:30,472 - distance - INFO - DG: 1.1250639431880554
+2026-09-08 16:12:30,546 - distance - INFO - DG: 1.1655861313692983
+2026-09-08 16:12:30,617 - distance - INFO - DG: 0.920192381717741
+2026-09-08 16:12:30,687 - distance - INFO - DG: 0.920192381717741
+2026-09-08 16:12:30,758 - distance - INFO - DG: 1.2891952972527516
+2026-09-08 16:12:30,829 - distance - INFO - DG: 0.7752403862017972
+2026-09-08 16:12:30,905 - distance - INFO - DG: 0.8001419193423178
+2026-09-08 16:12:30,978 - distance - INFO - DG: 0.8085750085811583
+2026-09-08 16:12:31,064 - distance - INFO - DG: 0.8378042414659439
+2026-09-08 16:12:31,139 - distance - INFO - DG: 0.8514730997556732
+2026-09-08 16:12:31,276 - distance - INFO - DG: 0.8705550739305264
+2026-09-08 16:12:31,353 - distance - INFO - DG: 0.8705550739305264
+2026-09-08 16:12:31,441 - distance - INFO - DG: 1.0951493484981119
+2026-09-08 16:12:31,523 - distance - INFO - DG: 1.129054548550466
+2026-09-08 16:12:31,602 - distance - INFO - DG: 1.1886647586693915
+2026-09-08 16:12:31,666 - distance - INFO - DG: 1.1886647586693915
+2026-09-08 16:12:31,779 - distance - INFO - DG: 1.2955718255764197
+2026-09-08 16:12:31,861 - distance - INFO - DG: 1.2955718255764197
+2026-09-08 16:12:31,946 - distance - INFO - DG: 1.3674584504421317
+2026-09-08 16:12:32,028 - distance - INFO - DG: 1.416698392353234
+2026-09-08 16:12:32,101 - distance - INFO - DG: 1.4952968356896967
+2026-09-08 16:12:32,173 - distance - INFO - DG: 1.4952968356896967
+2026-09-08 16:12:32,247 - distance - INFO - DG: 1.5465116382174597
+2026-09-08 16:12:32,344 - distance - INFO - DG: 1.5465116382174597
+2026-09-08 16:12:32,433 - distance - INFO - DG: 1.5465116382174597
+2026-09-08 16:12:32,531 - distance - INFO - DG: 1.5990954994781925
+2026-09-08 16:12:32,630 - distance - INFO - DG: 1.5990954994781925
+2026-09-08 16:12:32,721 - distance - INFO - DG: 1.5990954994781925
+2026-09-08 16:12:32,809 - distance - INFO - DG: 1.666013466214558
+2026-09-08 16:12:32,892 - distance - INFO - DG: 1.6377209865147058
+2026-09-08 16:12:32,973 - distance - INFO - DG: 1.627688427236044
+2026-09-08 16:12:33,053 - distance - INFO - DG: 1.6286428782779787
+2026-09-08 16:12:33,132 - distance - INFO - DG: 1.631701806054214
+2026-09-08 16:12:33,210 - distance - INFO - DG: 1.579294572472308
+2026-09-08 16:12:33,284 - distance - INFO - DG: 1.5518936193481858
+2026-09-08 16:12:33,358 - distance - INFO - DG: 1.521815626115949
+2026-09-08 16:12:33,433 - distance - INFO - DG: 1.5098200561144586
+2026-09-08 16:12:33,507 - distance - INFO - DG: 1.5098200561144586
+2026-09-08 16:12:33,584 - distance - INFO - DG: 1.5747052769907843
+2026-09-08 16:12:33,660 - distance - INFO - DG: 1.5747052769907843
+2026-09-08 16:12:33,734 - distance - INFO - DG: 1.5658804040025787
+2026-09-08 16:12:33,847 - distance - INFO - DG: 1.5664641872917435
+2026-09-08 16:12:33,951 - distance - INFO - DG: 1.5548481896818627
+2026-09-08 16:12:34,053 - distance - INFO - DG: 1.5512064047883272
+2026-09-08 16:12:34,149 - distance - INFO - DG: 1.671229959738918
+2026-09-08 16:12:34,241 - distance - INFO - DG: 1.6886467653526045
+2026-09-08 16:12:34,326 - distance - INFO - DG: 1.6886467653526045
+2026-09-08 16:12:34,409 - distance - INFO - DG: 1.7103927373670085
+2026-09-08 16:12:34,486 - distance - INFO - DG: 1.7144164315038735
+2026-09-08 16:12:34,560 - distance - INFO - DG: 1.7273688461992058
+2026-09-08 16:12:34,634 - distance - INFO - DG: 1.7345667987496172
+2026-09-08 16:12:34,710 - distance - INFO - DG: 1.7354316914513965
+2026-09-08 16:12:34,790 - distance - INFO - DG: 1.7370094247237708
+2026-09-08 16:12:34,864 - distance - INFO - DG: 1.7322806863024958
+2026-09-08 16:12:34,938 - distance - INFO - DG: 1.7322806863024958
+2026-09-08 16:12:35,013 - distance - INFO - DG: 1.7322806863024958
+2026-09-08 16:12:35,088 - distance - INFO - DG: 1.7153454862800563
+2026-09-08 16:12:35,163 - distance - INFO - DG: 1.682535072041215
+2026-09-08 16:12:35,237 - distance - INFO - DG: 1.6806227853164983
+2026-09-08 16:12:35,310 - distance - INFO - DG: 1.6806227853164983
+2026-09-08 16:12:35,386 - distance - INFO - DG: 1.380646523668592
+2026-09-08 16:12:35,464 - distance - INFO - DG: 1.380646523668592
+2026-09-08 16:12:35,543 - distance - INFO - DG: 1.380646523668592
+2026-09-08 16:12:35,624 - distance - INFO - DG: 1.2816286748129877
+2026-09-08 16:12:35,701 - distance - INFO - DG: 1.1742414324128758
+2026-09-08 16:12:35,776 - distance - INFO - DG: 1.1027117915234999
+2026-09-08 16:12:35,870 - distance - INFO - DG: 1.108953025901156
+2026-09-08 16:12:35,960 - distance - INFO - DG: 1.108953025901156
+2026-09-08 16:12:36,045 - distance - INFO - DG: 1.2962790314206767
+2026-09-08 16:12:36,132 - distance - INFO - DG: 1.2962790314206767
+2026-09-08 16:12:36,212 - distance - INFO - DG: 1.266221152249906
+2026-09-08 16:12:36,267 - distance - INFO - DG: 1.266221152249906
+2026-09-08 16:12:36,361 - distance - INFO - DG: 1.250868689541405
+2026-09-08 16:12:36,437 - distance - INFO - DG: 1.2555668501803483
+2026-09-08 16:12:36,513 - distance - INFO - DG: 1.2439240704288776
+2026-09-08 16:12:36,589 - distance - INFO - DG: 1.2482649760218176
+2026-09-08 16:12:36,698 - distance - INFO - DG: 1.2341627870535274
+2026-09-08 16:12:36,805 - distance - INFO - DG: 1.2341627870535274
+2026-09-08 16:12:36,897 - distance - INFO - DG: 1.221075026713676
+2026-09-08 16:12:36,982 - distance - INFO - DG: 1.2162284445429152
+2026-09-08 16:12:37,067 - distance - INFO - DG: 1.1895720158578842
+2026-09-08 16:12:37,149 - distance - INFO - DG: 1.1830426056305572
+2026-09-08 16:12:37,223 - distance - INFO - DG: 1.1701707763581324
+2026-09-08 16:12:37,295 - distance - INFO - DG: 1.1701707763581324
+2026-09-08 16:12:37,369 - distance - INFO - DG: 1.1701707763581324
+2026-09-08 16:12:37,444 - distance - INFO - DG: 0.924283282820823
+2026-09-08 16:12:37,519 - distance - INFO - DG: 0.9080003997183934
+2026-09-08 16:12:37,596 - distance - INFO - DG: 0.9080003997183934
+2026-09-08 16:12:37,670 - distance - INFO - DG: 0.9244724134921094
+2026-09-08 16:12:37,744 - distance - INFO - DG: 0.8751246294379403
+2026-09-08 16:12:37,832 - distance - INFO - DG: 0.8751246294379403
+2026-09-08 16:12:37,907 - distance - INFO - DG: 0.824684378700072
+2026-09-08 16:12:37,993 - distance - INFO - DG: 0.824684378700072
+2026-09-08 16:12:38,076 - distance - INFO - DG: 0.799679453600513
+2026-09-08 16:12:38,151 - distance - INFO - DG: 0.7965297055078651
+2026-09-08 16:12:38,225 - distance - INFO - DG: 0.7815684362552153
+2026-09-08 16:12:38,300 - distance - INFO - DG: 0.7101445456686653
+2026-09-08 16:12:38,375 - distance - INFO - DG: 0.7167230662003681
+2026-09-08 16:12:38,449 - distance - INFO - DG: 0.6905190306932482
+2026-09-08 16:12:38,523 - distance - INFO - DG: 0.6753833215548729
+2026-09-08 16:12:38,647 - distance - INFO - DG: 0.6753833215548729
+2026-09-08 16:12:38,741 - distance - INFO - DG: 0.6790477266997439
+2026-09-08 16:12:38,828 - distance - INFO - DG: 0.6790477266997439
+2026-09-08 16:12:38,914 - distance - INFO - DG: 0.6584856129220192
+2026-09-08 16:12:38,994 - distance - INFO - DG: 0.6393752930766239
+2026-09-08 16:12:39,074 - distance - INFO - DG: 0.6415445986230156
+2026-09-08 16:12:39,149 - distance - INFO - DG: 0.6415445986230156
+2026-09-08 16:12:39,227 - distance - INFO - DG: 0.6415445986230156
+2026-09-08 16:12:39,304 - distance - INFO - DG: 0.6415445986230156
+2026-09-08 16:12:39,384 - distance - INFO - DG: 0.6415445986230156
+2026-09-08 16:12:39,460 - distance - INFO - DG: 0.631037859443392
+2026-09-08 16:12:39,538 - distance - INFO - DG: 0.6221651296317644
+2026-09-08 16:12:39,614 - distance - INFO - DG: 0.626098438184997
+2026-09-08 16:12:39,692 - distance - INFO - DG: 0.6252742426213438
+2026-09-08 16:12:39,804 - distance - INFO - DG: 0.6252742426213438
+2026-09-08 16:12:39,899 - distance - INFO - DG: 0.6276381048267998
+2026-09-08 16:12:39,989 - distance - INFO - DG: 0.6302496402550338
+2026-09-08 16:12:40,076 - distance - INFO - DG: 0.6258676015492872
+2026-09-08 16:12:40,161 - distance - INFO - DG: 0.6251041580345621
+2026-09-08 16:12:40,244 - distance - INFO - DG: 0.6293898335434106
+2026-09-08 16:12:40,327 - distance - INFO - DG: 0.6293898335434106
+2026-09-08 16:12:40,408 - distance - INFO - DG: 0.6293898335434106
+2026-09-08 16:12:40,487 - distance - INFO - DG: 0.6326256213466263
+2026-09-08 16:12:40,567 - distance - INFO - DG: 0.6280652308796852
+2026-09-08 16:12:40,648 - distance - INFO - DG: 0.6280652308796852
+2026-09-08 16:12:40,682 - distance - INFO - DG: 0.6309178795559871
+2026-09-08 16:12:40,801 - distance - INFO - DG: 0.6355805662973902
+2026-09-08 16:12:40,877 - distance - INFO - DG: 0.6494328851968177
+2026-09-08 16:12:40,955 - distance - INFO - DG: 0.6535394780137284
+2026-09-08 16:12:41,032 - distance - INFO - DG: 0.6540995687155184
+2026-09-08 16:12:41,106 - distance - INFO - DG: 0.6740408558037612
+2026-09-08 16:12:41,181 - distance - INFO - DG: 0.6740408558037612
+2026-09-08 16:12:41,255 - distance - INFO - DG: 0.671538196567335
+2026-09-08 16:12:41,329 - distance - INFO - DG: 0.6738838141857261
+2026-09-08 16:12:41,406 - distance - INFO - DG: 0.6848068948588732
+2026-09-08 16:12:41,483 - distance - INFO - DG: 0.6920155633745124
+2026-09-08 16:12:41,614 - distance - INFO - DG: 0.7074871095820752
+2026-09-08 16:12:41,723 - distance - INFO - DG: 0.7074871095820752
+2026-09-08 16:12:41,828 - distance - INFO - DG: 0.7057884542291498
+2026-09-08 16:12:41,914 - distance - INFO - DG: 0.7287528466187492
+2026-09-08 16:12:41,997 - distance - INFO - DG: 0.7215651230541952
+2026-09-08 16:12:42,073 - distance - INFO - DG: 0.739605880251917
+2026-09-08 16:12:42,150 - distance - INFO - DG: 0.7411281035068263
+2026-09-08 16:12:42,227 - distance - INFO - DG: 0.7411281035068263
+2026-09-08 16:12:42,304 - distance - INFO - DG: 0.747367503901511
+2026-09-08 16:12:42,380 - distance - INFO - DG: 0.747367503901511
+2026-09-08 16:12:42,465 - distance - INFO - DG: 0.7680833254878143
+2026-09-08 16:12:42,549 - distance - INFO - DG: 0.7837377682845905
+2026-09-08 16:12:42,627 - distance - INFO - DG: 0.8258270660593221
+2026-09-08 16:12:42,706 - distance - INFO - DG: 0.8492878755640044
+2026-09-08 16:12:42,783 - distance - INFO - DG: 0.8504365139753605
+2026-09-08 16:12:42,861 - distance - INFO - DG: 0.8504365139753605
+2026-09-08 16:12:42,939 - distance - INFO - DG: 0.8669981737313175
+2026-09-08 16:12:43,016 - distance - INFO - DG: 0.8669981737313175
+2026-09-08 16:12:43,094 - distance - INFO - DG: 0.882616235009132
+2026-09-08 16:12:43,174 - distance - INFO - DG: 0.9310612245589407
+2026-09-08 16:12:43,254 - distance - INFO - DG: 0.9365751135610998
+2026-09-08 16:12:43,330 - distance - INFO - DG: 0.9365751135610998
+2026-09-08 16:12:43,405 - distance - INFO - DG: 0.9391813604591694
+2026-09-08 16:12:43,482 - distance - INFO - DG: 0.9391813604591694
+2026-09-08 16:12:43,558 - distance - INFO - DG: 0.9391813604591694
+2026-09-08 16:12:43,635 - distance - INFO - DG: 1.188889422793623
+2026-09-08 16:12:43,713 - distance - INFO - DG: 1.1953625373176557
+2026-09-08 16:12:43,792 - distance - INFO - DG: 1.2018377373640095
+2026-09-08 16:12:43,872 - distance - INFO - DG: 1.2119671978422457
+2026-09-08 16:12:43,948 - distance - INFO - DG: 1.2169111958649694
+2026-09-08 16:12:44,030 - distance - INFO - DG: 1.2239366786916612
+2026-09-08 16:12:44,111 - distance - INFO - DG: 1.2239366786916612
+2026-09-08 16:12:44,200 - distance - INFO - DG: 1.2239366786916612
+2026-09-08 16:12:44,279 - distance - INFO - DG: 1.228336462048978
+2026-09-08 16:12:44,356 - distance - INFO - DG: 1.228336462048978
+2026-09-08 16:12:44,432 - distance - INFO - DG: 1.3045606537634011
+2026-09-08 16:12:44,507 - distance - INFO - DG: 1.3536452316914669
+2026-09-08 16:12:44,585 - distance - INFO - DG: 1.370322133964584
+2026-09-08 16:12:44,678 - distance - INFO - DG: 1.370322133964584
+2026-09-08 16:12:44,764 - distance - INFO - DG: 1.370322133964584
+2026-09-08 16:12:44,850 - distance - INFO - DG: 1.4268782938841384
+2026-09-08 16:12:44,934 - distance - INFO - DG: 1.5544700459821092
+2026-09-08 16:12:45,015 - distance - INFO - DG: 1.5684351597410642
+2026-09-08 16:12:45,094 - distance - INFO - DG: 1.6121392897401574
+2026-09-08 16:12:45,173 - distance - INFO - DG: 1.6481091202744331
+2026-09-08 16:12:45,275 - distance - INFO - DG: 1.7382485830714807
+2026-09-08 16:12:45,376 - distance - INFO - DG: 1.7382485830714807
+2026-09-08 16:12:45,472 - distance - INFO - DG: 1.7382485830714807
+2026-09-08 16:12:45,560 - distance - INFO - DG: 1.7693609409663806
+2026-09-08 16:12:45,607 - distance - INFO - DG: 1.8200465677759308
+2026-09-08 16:12:45,713 - distance - INFO - DG: 1.828642124633724
+2026-09-08 16:12:45,787 - distance - INFO - DG: 1.8227355234297675
+2026-09-08 16:12:45,864 - distance - INFO - DG: 1.8227355234297675
+2026-09-08 16:12:45,942 - distance - INFO - DG: 1.8227355234297675
+2026-09-08 16:12:46,019 - distance - INFO - DG: 2.1742052106979237
+2026-09-08 16:12:46,094 - distance - INFO - DG: 2.151397786748073
+2026-09-08 16:12:46,170 - distance - INFO - DG: 2.132033508638251
+2026-09-08 16:12:46,250 - distance - INFO - DG: 2.132859511626734
+2026-09-08 16:12:46,327 - distance - INFO - DG: 2.132859511626734
+2026-09-08 16:12:46,407 - distance - INFO - DG: 2.1513261842674933
+2026-09-08 16:12:46,485 - distance - INFO - DG: 2.1600992374010937
+2026-09-08 16:12:46,560 - distance - INFO - DG: 2.1600992374010937
+2026-09-08 16:12:46,637 - distance - INFO - DG: 2.1600992374010937
+2026-09-08 16:12:46,715 - distance - INFO - DG: 2.15531893869849
+2026-09-08 16:12:46,793 - distance - INFO - DG: 2.15531893869849
+2026-09-08 16:12:46,870 - distance - INFO - DG: 2.176154909268532
+2026-09-08 16:12:46,947 - distance - INFO - DG: 2.2010592815834653
+2026-09-08 16:12:47,020 - distance - INFO - DG: 2.2355416358709412
+2026-09-08 16:12:47,133 - distance - INFO - DG: 2.2355416358709412
+2026-09-08 16:12:47,231 - distance - INFO - DG: 1.8942560589374329
+2026-09-08 16:12:47,309 - distance - INFO - DG: 1.9066577654968686
+2026-09-08 16:12:47,382 - distance - INFO - DG: 1.9066577654968686
+2026-09-08 16:12:47,461 - distance - INFO - DG: 1.907512487236899
+2026-09-08 16:12:47,537 - distance - INFO - DG: 1.9185329671537537
+2026-09-08 16:12:47,613 - distance - INFO - DG: 1.9140177558862068
+2026-09-08 16:12:47,696 - distance - INFO - DG: 1.9140177558862068
+2026-09-08 16:12:47,781 - distance - INFO - DG: 1.9088501671016733
+2026-09-08 16:12:47,862 - distance - INFO - DG: 1.8865821359317918
+2026-09-08 16:12:47,942 - distance - INFO - DG: 1.8661716925433058
+2026-09-08 16:12:48,019 - distance - INFO - DG: 1.8661716925433058
+2026-09-08 16:12:48,099 - distance - INFO - DG: 1.8407104716374596
+2026-09-08 16:12:48,175 - distance - INFO - DG: 1.7709751633486264
+2026-09-08 16:12:48,253 - distance - INFO - DG: 1.7640397503476082
+2026-09-08 16:12:48,331 - distance - INFO - DG: 1.758824064131662
+2026-09-08 16:12:48,428 - distance - INFO - DG: 1.758824064131662
+2026-09-08 16:12:48,527 - distance - INFO - DG: 1.7102298170274228
+2026-09-08 16:12:48,614 - distance - INFO - DG: 1.7084070008543615
+2026-09-08 16:12:48,694 - distance - INFO - DG: 1.711636551279225
+2026-09-08 16:12:48,773 - distance - INFO - DG: 1.6903826362294407
+2026-09-08 16:12:48,845 - distance - INFO - DG: 1.6614249488030859
+2026-09-08 16:12:48,920 - distance - INFO - DG: 1.6220970684473734
+2026-09-08 16:12:48,999 - distance - INFO - DG: 1.6220970684473734
+2026-09-08 16:12:49,077 - distance - INFO - DG: 1.3645579898540154
+2026-09-08 16:12:49,158 - distance - INFO - DG: 1.3645579898540154
+2026-09-08 16:12:49,241 - distance - INFO - DG: 1.3223016585433716
+2026-09-08 16:12:49,327 - distance - INFO - DG: 1.3223016585433716
+2026-09-08 16:12:49,412 - distance - INFO - DG: 1.2863456144926149
+2026-09-08 16:12:49,494 - distance - INFO - DG: 1.2863456144926149
+2026-09-08 16:12:49,569 - distance - INFO - DG: 1.2863456144926149
+2026-09-08 16:12:49,649 - distance - INFO - DG: 1.277559945842829
+2026-09-08 16:12:49,730 - distance - INFO - DG: 1.277559945842829
+2026-09-08 16:12:49,813 - distance - INFO - DG: 1.1730713307857952
+2026-09-08 16:12:49,895 - distance - INFO - DG: 1.1493257113623503
+2026-09-08 16:12:49,973 - distance - INFO - DG: 1.0779012049906733
+2026-09-08 16:12:50,049 - distance - INFO - DG: 1.0615600644612537
+2026-09-08 16:12:50,122 - distance - INFO - DG: 1.0461792294991195
+2026-09-08 16:12:50,195 - distance - INFO - DG: 1.032311727050303
+2026-09-08 16:12:50,269 - distance - INFO - DG: 1.003132170910472
+2026-09-08 16:12:50,344 - distance - INFO - DG: 0.9994312376947497
+2026-09-08 16:12:50,474 - distance - INFO - DG: 0.9986323819398282
+2026-09-08 16:12:50,578 - distance - INFO - DG: 0.9986323819398282
+2026-09-08 16:12:50,682 - distance - INFO - DG: 0.9216840487807382
+2026-09-08 16:12:50,774 - distance - INFO - DG: 0.8990588868473786
+2026-09-08 16:12:50,858 - distance - INFO - DG: 0.9050028952333657
+2026-09-08 16:12:50,938 - distance - INFO - DG: 0.9050028952333657
+2026-09-08 16:12:51,016 - distance - INFO - DG: 0.8829268276669608
+2026-09-08 16:12:51,089 - distance - INFO - DG: 0.8829268276669608
+2026-09-08 16:12:51,163 - distance - INFO - DG: 0.8829268276669608
+2026-09-08 16:12:51,237 - distance - INFO - DG: 0.8607696125686294
+2026-09-08 16:12:51,313 - distance - INFO - DG: 0.8607696125686294
+2026-09-08 16:12:51,397 - distance - INFO - DG: 0.7874322327421486
+2026-09-08 16:12:51,481 - distance - INFO - DG: 0.7874322327421486
+2026-09-08 16:12:51,560 - distance - INFO - DG: 0.774604313705252
+2026-09-08 16:12:51,637 - distance - INFO - DG: 0.7680495578895217
+2026-09-08 16:12:51,712 - distance - INFO - DG: 0.7680495578895217
+2026-09-08 16:12:51,789 - distance - INFO - DG: 0.7657159752160908
+2026-09-08 16:12:51,869 - distance - INFO - DG: 0.7588431908697498
+2026-09-08 16:12:51,945 - distance - INFO - DG: 0.7653808052177756
+2026-09-08 16:12:52,034 - distance - INFO - DG: 0.7780434696267089
+2026-09-08 16:12:52,115 - distance - INFO - DG: 0.7780434696267089
+2026-09-08 16:12:52,197 - distance - INFO - DG: 0.7855586254551031
+2026-09-08 16:12:52,276 - distance - INFO - DG: 0.7851350939331482
+2026-09-08 16:12:52,363 - distance - INFO - DG: 0.7851350939331482
+2026-09-08 16:12:52,451 - distance - INFO - DG: 0.7847874174374833
+2026-09-08 16:12:52,541 - distance - INFO - DG: 0.7831086888157034
+2026-09-08 16:12:52,618 - distance - INFO - DG: 0.7831086888157034
+2026-09-08 16:12:52,696 - distance - INFO - DG: 0.7861586304902305
+2026-09-08 16:12:52,773 - distance - INFO - DG: 0.7760991377815653
+2026-09-08 16:12:52,855 - distance - INFO - DG: 0.7760991377815653
+2026-09-08 16:12:52,938 - distance - INFO - DG: 0.7810577433134123
+2026-09-08 16:12:53,013 - distance - INFO - DG: 0.7810577433134123
+2026-09-08 16:12:53,102 - distance - INFO - DG: 0.7909331649193251
+2026-09-08 16:12:53,196 - distance - INFO - DG: 0.7909331649193251
+2026-09-08 16:12:53,277 - distance - INFO - DG: 0.7909331649193251
+2026-09-08 16:12:53,367 - distance - INFO - DG: 0.8811358179826927
+2026-09-08 16:12:53,453 - distance - INFO - DG: 0.8811358179826927
+2026-09-08 16:12:53,529 - distance - INFO - DG: 0.9181599072569628
+2026-09-08 16:12:53,607 - distance - INFO - DG: 0.9181599072569628
+2026-09-08 16:12:53,686 - distance - INFO - DG: 0.9082007051642995
+2026-09-08 16:12:53,768 - distance - INFO - DG: 0.8944826250098208
+2026-09-08 16:12:53,845 - distance - INFO - DG: 0.8969476955369633
+2026-09-08 16:12:53,922 - distance - INFO - DG: 0.9137563765291778
+2026-09-08 16:12:53,997 - distance - INFO - DG: 0.9266267342099539
+2026-09-08 16:12:54,072 - distance - INFO - DG: 0.923119343141245
+2026-09-08 16:12:54,149 - distance - INFO - DG: 0.9299184173065483
+2026-09-08 16:12:54,225 - distance - INFO - DG: 0.9280012016365448
+2026-09-08 16:12:54,301 - distance - INFO - DG: 0.934715980145044
+2026-09-08 16:12:54,378 - distance - INFO - DG: 0.9298424938571294
+2026-09-08 16:12:54,454 - distance - INFO - DG: 0.938959465661704
+2026-09-08 16:12:54,530 - distance - INFO - DG: 0.9320827952322455
+2026-09-08 16:12:54,643 - distance - INFO - DG: 0.9320827952322455
+2026-09-08 16:12:54,736 - distance - INFO - DG: 0.9320827952322455
+2026-09-08 16:12:54,828 - distance - INFO - DG: 0.9359269452523155
+2026-09-08 16:12:54,909 - distance - INFO - DG: 0.9347155284541991
+2026-09-08 16:12:54,992 - distance - INFO - DG: 0.9384946077224467
+2026-09-08 16:12:55,067 - distance - INFO - DG: 0.9384946077224467
+2026-09-08 16:12:55,142 - distance - INFO - DG: 0.9384946077224467
+2026-09-08 16:12:55,229 - distance - INFO - DG: 0.9384946077224467
+2026-09-08 16:12:55,318 - distance - INFO - DG: 0.9375278702512565
+2026-09-08 16:12:55,404 - distance - INFO - DG: 0.9398894266101446
+2026-09-08 16:12:55,485 - distance - INFO - DG: 0.9423998068141876
+2026-09-08 16:12:55,566 - distance - INFO - DG: 0.9467626810861982
+2026-09-08 16:12:55,646 - distance - INFO - DG: 0.9480053221513542
+2026-09-08 16:12:55,723 - distance - INFO - DG: 0.9428689792028174
+2026-09-08 16:12:55,801 - distance - INFO - DG: 0.9428689792028174
+2026-09-08 16:12:55,878 - distance - INFO - DG: 0.9428689792028174
+2026-09-08 16:12:55,953 - distance - INFO - DG: 0.9428689792028174
+2026-09-08 16:12:56,030 - distance - INFO - DG: 0.9438323999013708
+2026-09-08 16:12:56,109 - distance - INFO - DG: 1.001263446539481
+2026-09-08 16:12:56,189 - distance - INFO - DG: 0.9985222879686433
+2026-09-08 16:12:56,297 - distance - INFO - DG: 0.9985222879686433
+2026-09-08 16:12:56,375 - distance - INFO - DG: 0.9985222879686433
+2026-09-08 16:12:56,464 - distance - INFO - DG: 0.99889608709209
+2026-09-08 16:12:56,552 - distance - INFO - DG: 1.0337625969016062
+2026-09-08 16:12:56,632 - distance - INFO - DG: 1.0337625969016062
+2026-09-08 16:12:56,713 - distance - INFO - DG: 1.0405783151762007
+2026-09-08 16:12:56,794 - distance - INFO - DG: 1.0589775852487922
+2026-09-08 16:12:56,873 - distance - INFO - DG: 1.0749445939678028
+2026-09-08 16:12:56,956 - distance - INFO - DG: 1.0784765839386634
+2026-09-08 16:12:57,035 - distance - INFO - DG: 1.0784765839386634
+2026-09-08 16:12:57,113 - distance - INFO - DG: 1.0929013236726073
+2026-09-08 16:12:57,190 - distance - INFO - DG: 1.0929013236726073
+2026-09-08 16:12:57,269 - distance - INFO - DG: 1.104532758723075
+2026-09-08 16:12:57,350 - distance - INFO - DG: 1.1071850875824165
+2026-09-08 16:12:57,430 - distance - INFO - DG: 1.1343719876446416
+2026-09-08 16:12:57,508 - distance - INFO - DG: 1.1288332960550678
+2026-09-08 16:12:57,592 - distance - INFO - DG: 1.1243263923099722
+2026-09-08 16:12:57,674 - distance - INFO - DG: 1.1443113034006895
+2026-09-08 16:12:57,757 - distance - INFO - DG: 1.1443113034006895
+2026-09-08 16:12:57,837 - distance - INFO - DG: 1.1573347325755938
+2026-09-08 16:12:57,917 - distance - INFO - DG: 1.1624908281425956
+2026-09-08 16:12:57,998 - distance - INFO - DG: 1.1696637358060789
+2026-09-08 16:12:58,073 - distance - INFO - DG: 1.169807594346165
+2026-09-08 16:12:58,154 - distance - INFO - DG: 1.1838528634316863
+2026-09-08 16:12:58,231 - distance - INFO - DG: 1.1781548660686327
+2026-09-08 16:12:58,307 - distance - INFO - DG: 1.184266266681486
+2026-09-08 16:12:58,405 - distance - INFO - DG: 1.1879436431299162
+2026-09-08 16:12:58,493 - distance - INFO - DG: 1.1879436431299162
+2026-09-08 16:12:58,574 - distance - INFO - DG: 1.207162662402886
+2026-09-08 16:12:58,650 - distance - INFO - DG: 1.2166934832140324
+2026-09-08 16:12:58,728 - distance - INFO - DG: 1.2166934832140324
+2026-09-08 16:12:58,806 - distance - INFO - DG: 1.224810749031453
+2026-09-08 16:12:58,896 - distance - INFO - DG: 1.2154935956652209
+2026-09-08 16:12:58,990 - distance - INFO - DG: 1.2154935956652209
+2026-09-08 16:12:59,079 - distance - INFO - DG: 1.2427074814693435
+2026-09-08 16:12:59,165 - distance - INFO - DG: 1.24335678488682
+2026-09-08 16:12:59,245 - distance - INFO - DG: 1.245274199593247
+2026-09-08 16:12:59,327 - distance - INFO - DG: 1.239409553954812
+2026-09-08 16:12:59,408 - distance - INFO - DG: 1.2470563218983812
+2026-09-08 16:12:59,482 - distance - INFO - DG: 1.2470563218983812
+2026-09-08 16:12:59,556 - distance - INFO - DG: 1.2470563218983812
+2026-09-08 16:12:59,632 - distance - INFO - DG: 1.2470563218983812
+2026-09-08 16:12:59,711 - distance - INFO - DG: 1.2456803549073108
+2026-09-08 16:12:59,792 - distance - INFO - DG: 1.2555574434037642
+2026-09-08 16:12:59,866 - distance - INFO - DG: 1.2489186916988868
+2026-09-08 16:12:59,941 - distance - INFO - DG: 1.2632629557825346
+2026-09-08 16:13:00,030 - distance - INFO - DG: 1.272610001575994
+2026-09-08 16:13:00,118 - distance - INFO - DG: 1.272610001575994
+2026-09-08 16:13:00,202 - distance - INFO - DG: 1.2778691642101898
+2026-09-08 16:13:00,275 - distance - INFO - DG: 1.2282087645042152
+2026-09-08 16:13:00,350 - distance - INFO - DG: 1.2282087645042152
+2026-09-08 16:13:00,427 - distance - INFO - DG: 1.1955822780953498
+2026-09-08 16:13:00,501 - distance - INFO - DG: 1.3180525300356802
+2026-09-08 16:13:00,580 - distance - INFO - DG: 1.3193267271515359
+2026-09-08 16:13:00,673 - distance - INFO - DG: 1.3193267271515359
+2026-09-08 16:13:00,764 - distance - INFO - DG: 1.1462234197035641
+2026-09-08 16:13:00,857 - distance - INFO - DG: 1.1462234197035641
+2026-09-08 16:13:00,942 - distance - INFO - DG: 1.1759177778955128
+2026-09-08 16:13:01,024 - distance - INFO - DG: 1.222327604221256
+2026-09-08 16:13:01,104 - distance - INFO - DG: 1.2348455759561972
+2026-09-08 16:13:01,179 - distance - INFO - DG: 1.3438572117024519
+2026-09-08 16:13:01,260 - distance - INFO - DG: 1.3626860165000725
+2026-09-08 16:13:01,338 - distance - INFO - DG: 1.3626860165000725
+2026-09-08 16:13:01,413 - distance - INFO - DG: 1.3626860165000725
+2026-09-08 16:13:01,499 - distance - INFO - DG: 1.3784035924177656
+2026-09-08 16:13:01,582 - distance - INFO - DG: 1.3784035924177656
+2026-09-08 16:13:01,661 - distance - INFO - DG: 1.3691409599621698
+2026-09-08 16:13:01,737 - distance - INFO - DG: 1.4402899940228164
+2026-09-08 16:13:01,813 - distance - INFO - DG: 1.4498024036293764
+2026-09-08 16:13:01,908 - distance - INFO - DG: 1.4498024036293764
+2026-09-08 16:13:01,995 - distance - INFO - DG: 1.4498024036293764
+2026-09-08 16:13:02,079 - distance - INFO - DG: 1.4576723868824661
+2026-09-08 16:13:02,160 - distance - INFO - DG: 1.553873369642572
+2026-09-08 16:13:02,237 - distance - INFO - DG: 1.5467881487343107
+2026-09-08 16:13:02,314 - distance - INFO - DG: 1.6319228750729806
+2026-09-08 16:13:02,389 - distance - INFO - DG: 1.3997913802130186
+2026-09-08 16:13:02,493 - distance - INFO - DG: 1.3997913802130186
+2026-09-08 16:13:02,574 - distance - INFO - DG: 1.4711800471797098
+2026-09-08 16:13:02,651 - distance - INFO - DG: 1.4711800471797098
+2026-09-08 16:13:02,731 - distance - INFO - DG: 1.4711800471797098
+2026-09-08 16:13:02,810 - distance - INFO - DG: 1.564093743345631
+2026-09-08 16:13:02,847 - distance - INFO - DG: 1.547050160110321
+2026-09-08 16:13:02,963 - distance - INFO - DG: 1.6840636288563613
+2026-09-08 16:13:03,038 - distance - INFO - DG: 1.6861901748366728
+2026-09-08 16:13:03,136 - distance - INFO - DG: 1.6861901748366728
+2026-09-08 16:13:03,231 - distance - INFO - DG: 1.6044182873643917
+2026-09-08 16:13:03,316 - distance - INFO - DG: 1.6044182873643917
+2026-09-08 16:13:03,398 - distance - INFO - DG: 1.6221387252916915
+2026-09-08 16:13:03,476 - distance - INFO - DG: 1.7038273445027645
+2026-09-08 16:13:03,556 - distance - INFO - DG: 1.7491345050034568
+2026-09-08 16:14:25,357 - distance - INFO - DG: 0.7368886928124599
+2026-09-08 16:14:25,446 - distance - INFO - DG: 0.7364344620705585
